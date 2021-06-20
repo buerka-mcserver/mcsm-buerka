@@ -1,12 +1,6 @@
-![doc_logo.png](/public/common/doc_logo.png)
-  
-[![Status](https://img.shields.io/badge/npm-v6.9.0-blue.svg)](https://www.npmjs.com/)
-[![Status](https://img.shields.io/badge/node-v10.16.0-blue.svg)](https://nodejs.org/en/download/)
-[![Status](https://travis-ci.org/Suwings/MCSManager.svg?branch=master)](https://travis-ci.org/Suwings/MCSManager)
-[![Status](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/Suwings/MCSManager)
-
-
-简单，易用，多实例，轻量级的 Minecraft Server 控制面板 
+# 此项目为二次开发
+源项目：[https://github.com/Suwings/MCSManager](https://github.com/Suwings/MCSManager)  
+源项目官网：[http://mcsm.suwings.top/](http://mcsm.suwings.top/)
 
 
 

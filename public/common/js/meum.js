@@ -19,6 +19,13 @@
       select: false
     },
     {
+      class: "glyphicon-xing-ban", //html元素 类
+      name: "XING-封禁系统", //菜单名
+      link: "./template/xing_ban.html", //单击时跳转目的
+      api: null, //通过 Webscoket 后端请求的API,null为不请求,
+      select: false
+    },
+    {
       class: "glyphicon-equalizer",
       name: "技术支持",
       link: "./template/gen_about.html",
@@ -64,6 +71,20 @@
       link: "./template/feelback.html",
       api: null,
       select: false
-    }
+    },
+    {
+      class: "glyphicon-xing-ban", //html元素 类
+      name: "XING-封禁系统", //菜单名
+      link: "./template/xing_ban.html", //单击时跳转目的
+      api: null, //通过 Webscoket 后端请求的API,null为不请求,
+      select: false
+    },
+    {
+      class: "glyphicon-xing-web", //html元素 类
+      name: "XING-web管理", //菜单名
+      link: "./template/xing_web.html", //单击时跳转目的
+      api: null, //通过 Webscoket 后端请求的API,null为不请求,
+      select: false
+    },
   ];
 })();
