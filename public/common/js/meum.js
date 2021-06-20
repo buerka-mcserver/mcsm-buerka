@@ -65,13 +65,13 @@
       api: "genuser/home",
       select: false
     },
-    {
-      class: "glyphicon-floppy-open",
-      name: "服务",
-      link: "./template/feelback.html",
-      api: null,
-      select: false
-    },
+    // {
+    //   class: "glyphicon-floppy-open",
+    //   name: "服务",
+    //   link: "./template/feelback.html",
+    //   api: null,
+    //   select: false
+    // },
     {
       class: "glyphicon-xing-ban", //html元素 类
       name: "XING-封禁系统", //菜单名
